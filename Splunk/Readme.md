@@ -14,6 +14,7 @@ __use cases:__
 
 ### Splunk Architecture :
 
+
 1. single server Architecture: used by personal or for learning not for development
 2. Distributed Architecture: used by organisations . multiple servers for multiple components . we can scale the servers also possible
 
